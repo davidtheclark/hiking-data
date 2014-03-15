@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L02",
+                "desc": "L02",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.239016652,
+                    33.208833337,
+                    644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L08",
+                "desc": "L08",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.231666684,
+                    33.224650025,
+                    1061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L03",
+                "desc": "L03",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.239899993,
+                    33.209583282,
+                    689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L01",
+                "desc": "L01",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.239500046,
+                    33.20511663,
+                    546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L04",
+                "desc": "L04",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.238033295,
+                    33.212583303,
+                    765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L07",
+                "desc": "L07",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.234683275,
+                    33.216950059,
+                    872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L06",
+                "desc": "L06",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.237200022,
+                    33.21361661,
+                    791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TH",
+                "desc": "TH",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.240166664,
+                    33.19903338,
+                    474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QUARTZPK",
+                "desc": "QUARTZPK",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.230000019,
+                    33.230316639,
+                    1224
+                ]
+            }
+        }
+    ]
+}

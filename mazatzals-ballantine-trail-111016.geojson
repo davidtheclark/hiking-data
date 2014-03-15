@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REST",
+                "desc": "REST",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.441618204,
+                    33.768375754,
+                    1249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "INTRSCTN",
+                "desc": "INTRSCTN",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.451443076,
+                    33.769954562,
+                    1112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PINELOOP",
+                "desc": "PINELOOP",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.478376746,
+                    33.771864414,
+                    819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BTH",
+                "desc": "New Track",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.493442297,
+                    33.764328241,
+                    689
+                ]
+            }
+        }
+    ]
+}

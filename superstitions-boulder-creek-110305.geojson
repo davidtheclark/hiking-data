@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRAIL/CREEK",
+                "desc": "TRAIL/CREEK",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.403083324,
+                    33.512233377,
+                    544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PEAK",
+                "desc": "PEAK",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.414399981,
+                    33.525716662,
+                    717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TURNOFF-CREEK",
+                "desc": "TURNOFF-CREEK",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.419516683,
+                    33.527583361,
+                    560
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PARKING",
+                "desc": "PARKING",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.422848105,
+                    33.534083366,
+                    511
+                ]
+            }
+        }
+    ]
+}

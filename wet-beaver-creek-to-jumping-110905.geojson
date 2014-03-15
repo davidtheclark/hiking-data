@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Crossing",
+                "desc": "Crossing",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.660246253,
+                    34.674016833,
+                    1271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BellTH",
+                "desc": "New Track",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.713456631,
+                    34.673807263,
+                    1172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jumping",
+                "desc": "Jumping",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.659555197,
+                    34.674967527,
+                    1273
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PERALTA-TH",
+                "desc": "16-JAN-11 9:57:24AM",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.34778285,
+                    33.397614956,
+                    730
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SYM 1",
+                "desc": "SYM 1",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.347687602,
+                    33.397670984
+                ]
+            }
+        }
+    ]
+}

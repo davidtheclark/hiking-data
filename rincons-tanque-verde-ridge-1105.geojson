@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TH2",
+                "desc": "New Track",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.68355,
+                    32.233800054,
+                    840
+                ]
+            }
+        }
+    ]
+}

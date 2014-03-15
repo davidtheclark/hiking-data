@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "leave tr",
+                "desc": "leave tr",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.06091392,
+                    34.366385937,
+                    1963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Horton TH",
+                "desc": "New Track",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.096337676,
+                    34.339794993,
+                    1668
+                ]
+            }
+        }
+    ]
+}

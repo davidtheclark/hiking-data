@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TH",
+                "desc": "TH",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.836725593,
+                    34.32640481,
+                    1551
+                ]
+            }
+        }
+    ]
+}

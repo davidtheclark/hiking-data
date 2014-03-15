@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OFF",
+                "desc": "02-APR-11 3:26:02PM",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.44451201,
+                    34.090321779,
+                    1491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TH",
+                "desc": "TH",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.422133327,
+                    34.093000054,
+                    1271
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "6",
+                "desc": "6",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.86646843,
+                    33.972467661,
+                    1022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JOINING",
+                "desc": "JOINING",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.869189501,
+                    33.963768482,
+                    1022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HEAVEN",
+                "desc": "HEAVEN",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.901325226,
+                    33.965873122,
+                    950
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SPRING",
+                "desc": "SPRING",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.882026434,
+                    33.950149298,
+                    1157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TH",
+                "desc": "New Track",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.86647439,
+                    33.972463489,
+                    1022
+                ]
+            }
+        }
+    ]
+}

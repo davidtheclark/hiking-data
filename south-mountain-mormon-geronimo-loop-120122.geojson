@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOR-TH",
+                "desc": "MOR-TH",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.030907035,
+                    33.366473794,
+                    428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BV-TH",
+                "desc": "BV-TH",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.044267654,
+                    33.343065262,
+                    715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EXIT",
+                "desc": "EXIT",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.042776227,
+                    33.363082528,
+                    402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GER-TH",
+                "desc": "GER-TH",
+                "sym": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.040285349,
+                    33.365123749,
+                    415
+                ]
+            }
+        }
+    ]
+}
